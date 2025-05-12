@@ -53,3 +53,4 @@ Un **serveur proxy** agit comme un **intermédiaire** entre un utilisateur (clie
 - ❌ **Pas de chiffrement** si utilisé sans HTTPS.
 
 ---
+![Image](https://github.com/user-attachments/assets/377149b6-52b7-4a77-8096-09d3db5ec119)
